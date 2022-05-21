@@ -6,8 +6,8 @@ https://async-py.netlify.app/
 ### 파이썬 코루틴과 비동기 함수
 
 - [x] I/O 바운드 & CPI 바운드, 블로킹
-- [ ] 동기 vs 비동기
-- [ ] 파이썬 코루틴의 이해
+- [x] 동기 vs 비동기
+- [x] 파이썬 코루틴의 이해 https://docs.python.org/ko/3/library/asyncio-task.html
 - [ ] 파이썬 코루틴 활용
 
 ### 파이썬 멀티 스레딩과 멀티 프로세싱
