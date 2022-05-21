@@ -9,6 +9,9 @@ https://async-py.netlify.app/
 - [x] 동기 vs 비동기
 - [x] 파이썬 코루틴의 이해 https://docs.python.org/ko/3/library/asyncio-task.html
 - [ ] 파이썬 코루틴 활용
+- session object https://docs.python-requests.org/en/master/user/advanced/
+- request 공식 문서 https://docs.python-requests.org/en/master/index.html
+- aiohttp 공식문서 https://docs.aiohttp.org/en/stable/
 
 ### 파이썬 멀티 스레딩과 멀티 프로세싱
 - [ ] 서버와 클라이언트 HTTP, API 이해
