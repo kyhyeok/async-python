@@ -33,14 +33,21 @@ https://async-py.netlify.app/
 - aiofiles github https://github.com/Tinche/aiofiles
 
 ### 빅데이터 관리의 핵심 기술 MongoDB 구축
-- [ ] MongoDB Atlas 클라우드 구축
-- [ ] MongoDB 접근 권할 설정 * COmpass 셋업
-- [ ] MongoDB CURD
+- [x] MongoDB Atlas 클라우드 구축
+- [x] MongoDB 접근 권할 설정 * COmpass 셋업
+- [x] MongoDB CURD
+- 몽고DB 공식 홈페이지 https://www.mongodb.com/
 
 ### 실전 프로젝트: "콜렉터스 북북이" (FastAPI)
-- [ ] 비동기 게이트웨이 ASGI, Uvicorn
-- [ ] FastAPI Tutorial: Hello FastAPI!
-- [ ] FastAPI Tutorial: Jinja 템플릿 엔진
+- [x] 비동기 게이트웨이 ASGI, Uvicorn
+- wsgi
+- https://docs.python.org/ko/3/library/wsgiref.html
+- https://wikidocs.net/75556
+- http://wsgi.tutorial.codepoint.net/intro
+- asgi
+- https://asgi.readthedocs.io/en/latest/index.html
+- [x] FastAPI Tutorial: Hello FastAPI!
+- [x] FastAPI Tutorial: Jinja 템플릿 엔진
 - [ ] FastAPI + MongoDB: MongoDB ODM 셋업
 - [ ] 책 데이터 수집 클래스 개발
 - [ ] 서비스 로직 개발
