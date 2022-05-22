@@ -8,12 +8,18 @@ https://async-py.netlify.app/
 - [x] I/O 바운드 & CPI 바운드, 블로킹
 - [x] 동기 vs 비동기
 - [x] 파이썬 코루틴의 이해 https://docs.python.org/ko/3/library/asyncio-task.html
-- [ ] 파이썬 코루틴 활용
+- [x] 파이썬 코루틴 활용
 - session object https://docs.python-requests.org/en/master/user/advanced/
 - request 공식 문서 https://docs.python-requests.org/en/master/index.html
 - aiohttp 공식문서 https://docs.aiohttp.org/en/stable/
 
-### 파이썬 멀티 스레딩과 멀티 프로세싱
+### 파이썬 멀티 스레딩과 멀티 프로세상
+- [x] 컴퓨터 구조와 운영체제 기본
+- [x] 동시성 vs 별렬성
+- [x] 파이썬 멀티 스레딩
+- [ ] 파이썬 멀티 프로세싱, GIL
+
+### 동시성 프로그래밍을 데이터 수집
 - [ ] 서버와 클라이언트 HTTP, API 이해
 - [ ] 웹 크롤링, 스크래핑과 법적 주의사항
 - [ ] 동시성 프로그래밍으로 웹 크롤링, 스크래핑 성능 극대화
