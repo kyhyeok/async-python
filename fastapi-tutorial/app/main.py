@@ -9,9 +9,15 @@ BASE_DIR = Path(__file__).resolve().parent
 from fastapi.templating import Jinja2Templates
 
 app = FastAPI()
-templates = Jinja2Templates(directory=BASE_DIR/"templates")
+templates = Jinja2Templates(directory=BASE_DIR / "templates")
 
 
-@app.get("/items/{id}", response_class=HTMLResponse)
-async def read_item(request: Request, id: str):
-    return templates.TemplateResponse("./item.html", {"request": request, "id": id, "data": "FastAPI"})
+@app.get("/", response_class=HTMLResponse)
+async def root(request: Request):
+    return templates.TemplateResponse("./index.html", {"request": request, "title": "콜렉터 북북이"})
+
+
+@app.get("/search", response_class=HTMLResponse)
+async def search(request: Request, q: str):
+    print(q)
+    return templates.TemplateResponse("./index.html", {"request": request, "title": "콜렉터 북북이", "keyword": q})
