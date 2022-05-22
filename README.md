@@ -25,11 +25,12 @@ https://async-py.netlify.app/
 - [x] 동시성 프로그래밍으로 웹 크롤링, 스크래핑 성능 극대화
 - [x] 포스트맨 셋업, 네이버, 카카오 오픈 API 사용하기
 - [x] 오픈 API를 활용한 이미지 데이터 수집
-- [ ] 동시성 프로그래밍으로 이미지 다운로더 개발 (feat. aiofiles)
+- [x] 동시성 프로그래밍으로 이미지 다운로더 개발 (feat. aiofiles)
 - http 문서 https://developer.mozilla.org/ko/docs/Web/HTTP
 - api 문서 https://www.redhat.com/ko/topics/api/what-are-application-programming-interfaces
 - beautiful soup 문서 https://beautiful-soup-4.readthedocs.io/en/latest/
 - robox.txt google 문서 https://developers.google.com/search/docs/advanced/robots/intro?hl=ko
+- aiofiles github https://github.com/Tinche/aiofiles
 
 ### 빅데이터 관리의 핵심 기술 MongoDB 구축
 - [ ] MongoDB Atlas 클라우드 구축
