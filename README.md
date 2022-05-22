@@ -17,15 +17,19 @@ https://async-py.netlify.app/
 - [x] 컴퓨터 구조와 운영체제 기본
 - [x] 동시성 vs 별렬성
 - [x] 파이썬 멀티 스레딩
-- [ ] 파이썬 멀티 프로세싱, GIL
+- [x] 파이썬 멀티 프로세싱, GIL
 
 ### 동시성 프로그래밍을 데이터 수집
-- [ ] 서버와 클라이언트 HTTP, API 이해
-- [ ] 웹 크롤링, 스크래핑과 법적 주의사항
+- [x] 서버와 클라이언트 HTTP, API 이해
+- [x] 웹 크롤링, 스크래핑과 법적 주의사항
 - [ ] 동시성 프로그래밍으로 웹 크롤링, 스크래핑 성능 극대화
 - [ ] 포스트맨 셋업, 네이버, 카카오 오픈 API 사용하기
 - [ ] 오픈 API를 활용한 이미지 데이터 수집
 - [ ] 동시성 프로그래밍으로 이미지 다운로더 개발 (feat. aiofiles)
+- http 문서 https://developer.mozilla.org/ko/docs/Web/HTTP
+- api 문서 https://www.redhat.com/ko/topics/api/what-are-application-programming-interfaces
+- beautiful soup 문서 https://beautiful-soup-4.readthedocs.io/en/latest/
+- robox.txt google 문서 https://developers.google.com/search/docs/advanced/robots/intro?hl=ko
 
 ### 빅데이터 관리의 핵심 기술 MongoDB 구축
 - [ ] MongoDB Atlas 클라우드 구축
