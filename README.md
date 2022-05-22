@@ -22,9 +22,9 @@ https://async-py.netlify.app/
 ### 동시성 프로그래밍을 데이터 수집
 - [x] 서버와 클라이언트 HTTP, API 이해
 - [x] 웹 크롤링, 스크래핑과 법적 주의사항
-- [ ] 동시성 프로그래밍으로 웹 크롤링, 스크래핑 성능 극대화
-- [ ] 포스트맨 셋업, 네이버, 카카오 오픈 API 사용하기
-- [ ] 오픈 API를 활용한 이미지 데이터 수집
+- [x] 동시성 프로그래밍으로 웹 크롤링, 스크래핑 성능 극대화
+- [x] 포스트맨 셋업, 네이버, 카카오 오픈 API 사용하기
+- [x] 오픈 API를 활용한 이미지 데이터 수집
 - [ ] 동시성 프로그래밍으로 이미지 다운로더 개발 (feat. aiofiles)
 - http 문서 https://developer.mozilla.org/ko/docs/Web/HTTP
 - api 문서 https://www.redhat.com/ko/topics/api/what-are-application-programming-interfaces
